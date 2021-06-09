@@ -27,5 +27,12 @@ I'm interested in pretty much anything related to software development. But now 
   <img src="https://img.shields.io/badge/GitHub-%23181717?&logo=github&logoColor=white&style=flat-square"/>
 <div>
 <br />
+  
+**My GitHub Stats:**
+
+<div float="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=montsouz&show_icons=true&theme=gotham" alt="montsouz" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=montsouz&theme=gotham" alt="montsouz" />
+<div>
 
 
